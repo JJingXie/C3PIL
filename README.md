@@ -1,6 +1,6 @@
 # C3PIL: Crowd Perception Communication-Based Multi-Agent Path Finding with Imitation Learning
 
-Jing Xie, Yongjun Zhang, Huanhuan Yang, Qianying Ouyang, Fang Dong, Xinyu Guo, Songchang Jin and Dianxi Shi (Under review for RA-L)
+Jing Xie, Yongjun Zhang, Huanhuan Yang, Qianying Ouyang, Fang Dong, Xinyu Guo, Songchang Jin and Dianxi Shi (Published in RA-L)
 
 # Model
 We propose a decentralized Multi-Agent Path Finding (MAPF) method C3PIL with Crowd Perception Controlled Communication and generative adversarial Imitation Learning. Our overall model achieves a SOTA level. 
